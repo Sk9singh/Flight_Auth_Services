@@ -1,7 +1,7 @@
 {
-  "name": "flighsandsearch",
+  "name": "flightauthservice",
   "version": "1.0.0",
-  "description": "Micro service for handling FLIGHT CRUD",
+  "description": "Micro service for handling AUTHENTICATION",
   "main": "index.js",
   "scripts": {
     "start": "npx nodemon src/index.js"
